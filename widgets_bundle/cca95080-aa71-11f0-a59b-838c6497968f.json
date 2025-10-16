@@ -1,0 +1,22 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "ttc_oee",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "cca95080-aa71-11f0-a59b-838c6497968f"
+    },
+    "image" : null,
+    "name" : "TTC_OEE",
+    "order" : null,
+    "scada" : false,
+    "title" : "TTC_OEE"
+  },
+  "fqns" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}

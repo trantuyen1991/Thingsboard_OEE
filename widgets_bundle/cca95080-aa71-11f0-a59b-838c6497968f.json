@@ -14,7 +14,7 @@
     "scada" : false,
     "title" : "TTC_OEE"
   },
-  "fqns" : [ ],
+  "fqns" : [ "oee_linechart_v1" ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },

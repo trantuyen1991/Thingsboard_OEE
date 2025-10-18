@@ -8,7 +8,7 @@
       "entityType" : "WIDGETS_BUNDLE",
       "id" : "cca95080-aa71-11f0-a59b-838c6497968f"
     },
-    "image" : null,
+    "image" : "tb-image;/api/images/tenant/LINECHART_(1).PNG",
     "name" : "TTC_OEE",
     "order" : null,
     "scada" : false,

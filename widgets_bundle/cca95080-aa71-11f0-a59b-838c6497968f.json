@@ -14,7 +14,7 @@
     "scada" : false,
     "title" : "TTC_OEE"
   },
-  "fqns" : [ "oee_linechart_v1", "oee_gauge_v1", "oee_barrace_v1", "oee_filtermenu_v1", "oee_gantt_v1", "oee_gantt_v2" ],
+  "fqns" : [ "oee_linechart_v1", "oee_gauge_v1", "oee_barrace_v1", "oee_filtermenu_v1", "oee_gantt_v1", "oee_gantt_v2", "oee_barrace_v2" ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },
